@@ -12,6 +12,7 @@ NumPy: Sayısal hesaplamalar için
 Matplotlib: Grafik ve görselleştirme için
 
 Veri seti Kaggle platformundan indirilmiş ve pandas kütüphanesi ile projeye dahil edilmiştir
+Veri kümesindeki eksik veriler tespit edilmiş ve sütunlardaki eksik verilerin yüzdesi hesaplanmıştır.
 EDA Keşifsel Veri AnaliziVeri setinin genel yapısını ve istatistiksel özetini anlamak için info() ve describe() fonksiyonları kullanıldı
 
 #İstatistiksel Analiz ve Görselleştirme
